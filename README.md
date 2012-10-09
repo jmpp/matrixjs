@@ -1,4 +1,5 @@
 Matrix Code in JavaScript
 =============
 
-* [Online demo](http://jmpp.fr/matrixjs/)
+[Online demo](http://jmpp.fr/matrixjs/)
+=============
